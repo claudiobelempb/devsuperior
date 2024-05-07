@@ -1,0 +1,48 @@
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: realmeet
+  contact: {
+    name: 'Cláudio Cardoso',
+    email: 'claudio.c.lima@hotmail.com'
+  }
+  description: 'Api criada com springBoot'
+servers:
+  -  url: http://localhost:3000
+paths:
+  /rooms/{roomId}:
+    get:
+      summary: Return a room by ID
+      operationId: handle
+      description: 'Api criada com springBoot'
+      tags:
+        - room
+      parameters:
+        -  name: roomId
+           required: true
+           in: path
+           description: ID of the room
+           schema:
+             type: integer
+             format: int64
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RoomDTO'
+components:
+  schemas:
+    RoomDTO:
+      type: object
+      properties:
+        roomId:
+          type: integer
+          format: int64
+        name:
+          type: string
+        code:
+          type: string
+        seats:
+          type: integer
