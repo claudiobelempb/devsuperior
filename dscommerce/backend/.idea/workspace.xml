@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6728dd0-9620-4fcd-bff2-a7549c59872f" name="Changes" comment="Aula: sub querys" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="package-info" />
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;claudiobelempb&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a3708895-31e3-4853-a04d-1a3728b00d54" />
+        <option name="url" value="https://github.com/claudiobelempb/project-surbcommerce.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2drHN94k5vztQLaE0ORNWFKC1Si" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/workspace-java/dscommerce",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace-java\dscommerce\backend\src\main\java\br\surb\com\br\dscommerce\entities" />
+      <recent name="C:\workspace-java\dscommerce\backend\src\main\java\br\surb\com\br\dscommerce\dto" />
+      <recent name="C:\workspace-java\dscommerce\backend\src\main\java\br\surb\com\br\dscommerce\shared" />
+      <recent name="C:\workspace-java\dscommerce\src\main\java\br\surb\com\br\dscommerce\services" />
+      <recent name="C:\workspace-java\desafios-devsuperior\dscommerce\src\main\java\br\surb\com\br\dscommerce\modules" />
+    </key>
+    <key name="CreateBuilderDialog.RecentsKey">
+      <recent name="br.surb.com.br.dscommerce.entities" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.surb.com.br.dscommerce.http.response" />
+      <recent name="br.surb.com.br.dscommerce.http.request" />
+      <recent name="br.surb.com.br.dscommerce.dto.product" />
+      <recent name="br.surb.com.br.dscommerce.dto.category" />
+      <recent name="br.surb.com.br.dscommerce.dto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <envs>
+        <env name="SPRING_PROFILES_ACTIVE" value="test" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="br.surb.com.br.dscommerce.DscommerceApplication" />
+      <module name="dscommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.surb.com.br.dscommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6728dd0-9620-4fcd-bff2-a7549c59872f" name="Changes" comment="" />
+      <created>1710759241634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710759241634</updated>
+    </task>
+    <task id="LOCAL-00001" summary="entity user">
+      <option name="closed" value="true" />
+      <created>1710765693946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710765693946</updated>
+    </task>
+    <task id="LOCAL-00002" summary="entity product, category">
+      <option name="closed" value="true" />
+      <created>1710931416426</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710931416426</updated>
+    </task>
+    <task id="LOCAL-00003" summary="entity product, category">
+      <option name="closed" value="true" />
+      <created>1710931433057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710931433057</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Gerando equals e hashCode das entidades">
+      <option name="closed" value="true" />
+      <created>1710953984348</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710953984348</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Gerando equals e hashCode das entidades">
+      <option name="closed" value="true" />
+      <created>1710954084817</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710954084817</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implementando outras exceções">
+      <option name="closed" value="true" />
+      <created>1711217651015</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711217651015</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Exeption handling">
+      <option name="closed" value="true" />
+      <created>1711277750754</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711277750754</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Customizando a resposta da validação">
+      <option name="closed" value="true" />
+      <created>1711364211355</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711364211356</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Aula: Carregamento EAGER e LAZY">
+      <option name="closed" value="true" />
+      <created>1712404182891</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712404182891</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Aula: Carregamento EAGER e LAZY">
+      <option name="closed" value="true" />
+      <created>1712572959556</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712572959556</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Aula: sub querys">
+      <option name="closed" value="true" />
+      <created>1714147207575</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714147207575</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="entity user" />
+    <MESSAGE value="entity product, category" />
+    <MESSAGE value="Gerando equals e hashCode das entidades" />
+    <MESSAGE value="Implementando outras exceções" />
+    <MESSAGE value="Exeption handling" />
+    <MESSAGE value="Customizando a resposta da validação" />
+    <MESSAGE value="Aula: Carregamento EAGER e LAZY" />
+    <MESSAGE value="Aula: sub querys" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula: sub querys" />
+  </component>
+</project>
